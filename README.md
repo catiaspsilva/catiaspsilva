@@ -4,7 +4,7 @@ I'm an Instructional Assistant Professor at the University of Florida in the Ele
 
 I'm also a GitHub Campus Advisor with University of Florida and GitHub. I can help you integrate Git and Github with your courses and projects.
 
-Find more here: https://catiaspsilva.github.io/
+<!-- Find more here: https://catiaspsilva.github.io/ -->
 
 Watch my contribution graph get eaten by the snake :snake:
 ![snake gif](https://github.com/catiaspsilva/catiaspsilva/blob/output/github-contribution-grid-snake.gif)
